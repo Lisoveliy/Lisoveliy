@@ -5,3 +5,5 @@
 - I using MVC, MVVM, SOLID in my code
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lisoveliy&count_private=true&show_icons=true&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lisoveliy&show_icons=true&theme=transparent)

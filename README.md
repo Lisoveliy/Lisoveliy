@@ -4,5 +4,3 @@
 - My Stack is C# (Unity API, WPF, ASP.Net), VPS Admining, Html/CSS/JS, Minecraft Moding(Basic), Python scripts(Basic), VS Code extensions(Basic)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lisoveliy&count_private=true&show_icons=true&theme=transparent&layout=compact&hide=asp.net,shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lisoveliy&show_icons=true&theme=transparent)

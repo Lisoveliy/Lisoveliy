@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## Full-Stack Web, Desktop/Mobile Applications and Microcontrollers developer
+  ## Full-Stack Web, Desktop/Mobile Applications and microcontrollers developer
 </div>
 
 ### Langs:

@@ -5,14 +5,16 @@
 
 ### Langs:
 <div style="display: flex">
-<img alt="C#" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width=54/>
-<img alt="C++" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width=50/>
-<img alt="TypeScript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width=50/>
-<img alt="JavaScript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width=50/>
-<img alt="Kotlin" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" width=50/>
-<img alt="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width=50/>
-<img alt="HTML5" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width=50/>
-<img alt="CSS3" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width=50/>
+  <img alt="C#" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" width=54/>
+  <img alt="C++" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" width=50/>
+  <img alt="TypeScript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width=50/>
+  <img alt="JavaScript" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width=50/>
+  <img alt="Kotlin" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png" width=50/>
+  <img alt="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width=50/>
+  <img alt="HTML5" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width=50/>
+  <img alt="CSS3" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width=50/>
+  <img alt="YML" src="https://github.com/Lisoveliy/Lisoveliy/assets/56991906/a139f61a-be64-48da-b6b7-8ef83c60d4fe" width=50/>
+  <img alt="XAML" src="https://github.com/Lisoveliy/Lisoveliy/assets/56991906/3f253f35-bcdf-4e00-8b8c-1bf6615e9a95" width=50/>
 </div>
 
 ### Frameworks/Runtimes:
@@ -25,7 +27,6 @@
   <img alt="Compose" src="https://github.com/Lisoveliy/Lisoveliy/assets/56991906/1116bd26-36d8-497a-a554-451c64318074" width=46/>
   <img alt="Unity" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" width=50/>
   <img alt="Arduino/Atmel" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" width=50/>
-  
   <img alt="Node.js" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width=50/>
   <img alt=".Net Core" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" width=50/>
 </div>
@@ -60,5 +61,6 @@
 End etc...
 <div align="center" style="display: flex">
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lisoveliy&count_private=true&show_icons=true&theme=transparent&layout=compact&hide=asp.net,shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisoveliy)](https://github.com/anuraghazra/github-readme-stats)  </div>
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lisoveliy&count_private=true&show_icons=true&theme=transparent&layout=compact&hide=asp.net,shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisoveliy)](https://github.com/anuraghazra/github-readme-stats)  
+</div>

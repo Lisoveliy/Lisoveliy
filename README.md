@@ -1,5 +1,6 @@
 <div align="center">
-<h1>Hi, I’m @Lisoveliy</h1>
+
+  ## Full-Stack Web, Desktop/Mobile Applications and Microcontrollers developer
 </div>
 
 ### Langs:

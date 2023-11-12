@@ -27,7 +27,7 @@
 <div style="display: flex">
   <img alt="Figma" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width=50/>
   <img alt="Visual Studio" src="https://github.com/Lisoveliy/Lisoveliy/assets/56991906/f9604be9-bdc8-4f66-a637-db341e2040db" width=50/>
-  <img alt="VS Code" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width=50/>50/>
+  <img alt="VS Code" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width=50/>
   <img alt="Postman" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width=50/>
   <img alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width=50/>
   <img alt="GitHub" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width=50/>

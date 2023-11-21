@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## Full-Stack Web developer
+  ## Full-Stack C# + Angular developer
 </div>
 
 ### Langs:

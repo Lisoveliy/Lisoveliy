@@ -3,7 +3,7 @@
   ## Hello, i am Saveliy Savenok
 </div>
 
-### I like to make cool stuff like minecraft mods, hardware things, videogames, server programs, GUI client programs and made server admining.
+### I like to make cool stuff like minecraft mods, hardware things, videogames, server programs, GUI, client programs and made server admining.
 ### Working with back-end and front-end 
 using ASP.Net, Angular;
 

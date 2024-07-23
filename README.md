@@ -41,9 +41,6 @@ Desktop programs<br><br>
 Server admining<br><br>
   </td>
 </tr>
-  
-<tr>
-  <td>
 </table>
 
 ### Also love that stuff:

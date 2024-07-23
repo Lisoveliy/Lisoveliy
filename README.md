@@ -52,8 +52,10 @@ Server admining<br><br>
 - Vue
 - Nest.js (and all node.js env.)
   
-## Last open-source project
-SpectruMine(closed and archived): [ @SpectruMTeamCode/spectrumine.com](https://github.com/SpectruMTeamCode/api.spectrumine.com)
+## Last open-source projects
+SwapDude (In development): [@SpectruMTeamCode/SwapDude](https://github.com/SpectruMProjects/SwapDude)
+
+SpectruMine(closed and archived): [@SpectruMTeamCode/spectrumine.com](https://github.com/SpectruMTeamCode/api.spectrumine.com)
 
 ## Stats:   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisoveliy)](https://github.com/anuraghazra/github-readme-stats)  

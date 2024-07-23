@@ -12,27 +12,39 @@ Glad to see you on my GitHub profile! :)
 
 ## Stack 
 
-### Working in web with:
-- ASP.Net (Core, MVC/Razor pages)
-- Angular
-- EF
-- FluentNHibernate
-- AutoMapper
-- NUnit
-- FluentAssertions
-- JQuery (not proud it)
-- MySQL(MariaDB)/MSSQL
-- MongoDB
-- Linq
-- WSL
-- Swagger
+<table align="center">
+<tr>
+<th> Working in web with </th>
+<th> Hobby(Pet)Zone </th>
+</tr>
+<tr>
+  <td>
+ASP.Net (Core, MVC/Razor pages)<br><br>
+Angular<br><br>
+EF<br><br>
+FluentNHibernate<br><br>
+AutoMapper<br><br>
+NUnit<br><br>
+FluentAssertions<br><br>
+JQuery (not proud it)<br><br>
+MySQL(MariaDB)/MSSQL<br><br>
+MongoDB<br><br>
+Linq<br><br>
+WSL<br><br>
+Swagger<br><br>
+    </td>
+  <td>
+Minecraft mods (and plugins)<br><br>
+Hardware things (Like IoT)<br><br>
+GameDev<br><br>
+Desktop programs<br><br>
+Server admining<br><br>
+  </td>
+</tr>
   
-### Hobby(Pet)Zone
-- Minecraft mods (and plugins)
-- Hardware things (Like IoT)
-- GameDev
-- Desktop programs
-- Server admining
+<tr>
+  <td>
+</table>
 
 ### Also love that stuff:
 - Docker

@@ -5,9 +5,9 @@
 Glad to see you on my GitHub profile! :)
 
 <div align="center" display="flex">
-    
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisoveliy)](https://github.com/anuraghazra/github-readme-stats)  
   [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lisoveliy&count_private=true&show_icons=true&theme=transparent&layout=compact&hide=asp.net,shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisoveliy)](https://github.com/anuraghazra/github-readme-stats)  
   </div>
 </div>
 

@@ -11,7 +11,6 @@ also like to code:
 - Hardware things (Like IoT)
 - GameDev
 - Desktop programs
-and Server admining.
 
 If you want to collab with me in this things, check out the contacts in below!
   

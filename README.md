@@ -1,17 +1,17 @@
 <div align="center">
   
-### Hello, i am <b>Savely <s>Pavel</s> Savianok</b>
-Glad to see you on my GitHub profile! :)
-
+### Hello, i am <b>Savely Savianok</b>
 </div>
 
 ## Stack 
-I working as <b>ASP.Net</b> developer but my heart depends to
+I am <b>ASP.Net</b> developer
+
+also like to code:
 - Minecraft mods (and plugins)
 - Hardware things (Like IoT)
 - GameDev
 - Desktop programs
-- Server admining
+and Server admining.
 
 If you want to collab with me in this things, check out the contacts in below!
   

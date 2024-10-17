@@ -4,7 +4,7 @@
 </div>
 
 ## Stack 
-I am <b>ASP.Net</b> developer
+I am <b>ASP.Net</b> back-end developer
 
 also like to code:
 - Minecraft mods (and plugins)

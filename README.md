@@ -1,6 +1,6 @@
 <div align="center">
   
-### Hello, i am <b>Savely Savianok</b>
+### Hello</b>
 </div>
 
 ## Stack 

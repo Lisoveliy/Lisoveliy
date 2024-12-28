@@ -1,8 +1,3 @@
-<div align="center">
-  
-### Hello</b>
-</div>
-
 ## Stack 
 I am <b>ASP.Net</b> back-end developer
 

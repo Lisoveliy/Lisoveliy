@@ -1,7 +1,6 @@
-## Stack 
 I am <b>ASP.Net</b> back-end developer
 
-also like to code:
+also like to make and learn:
 - Minecraft mods (and plugins)
 - Hardware things (Like IoT)
 - GameDev

@@ -1,6 +1,6 @@
 ### I am just <b>ASP.Net</b> back-end developer
 
-#### But also like:
+#### But I also like:
 - Writing and exploring minecraft mods (and plugins)
 - Develop hardware things (like IoT)
 - Create GameDev stuff

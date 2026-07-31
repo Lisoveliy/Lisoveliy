@@ -1,4 +1,4 @@
-### I am just <b>ASP.Net</b> back-end developer
+### I am just Audio Enginner
 
 #### But I also like:
 - Writing and exploring minecraft mods (and plugins)

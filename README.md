@@ -7,7 +7,4 @@
 - Write desktop programs and utilities
 
 ### This GitHub account is now used for mirroring and archived repositorites. 
-### All new and supported projects in my Gitea https://git.lisoveliy.su/Lisoveliy
-
-#### Some useless stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisoveliy&count_private=true&theme=transparent&layout=compact&hide=asp.net,shaderlab,hlsl)](https://github.com/anuraghazra/github-readme-stats)
+### All new and supported projects in my Gitea https://git.lisdev.su/Lisoveliy
